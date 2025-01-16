@@ -7,7 +7,7 @@
 
     **1.** Create a _[customer performance report](https://github.com/NVishnunath/Excel-Sales-Analytics/blob/master/Customer_net_sales_performance.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/NVishnunath/Excel-Sales-Analytics/blob/master/Market_performance_Vs_target.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -20,9 +20,12 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+   **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/NVishnunath/Excel-Sales-Analytics/blob/master/P%26L_by_fisical_year.pdf)_ & _[Months](https://github.com/NVishnunath/Excel-Sales-Analytics/blob/master/P%26L_by_Quarters.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/NVishnunath/Excel-Sales-Analytics/blob/master/P%26L_by_markets.pdf)_
+
+   **3.** Create Gross Margin Percentage of sub zones reports by _[GM% subzone](https://github.com/NVishnunath/Excel-Sales-Analytics/blob/master/Gross_Margin%25_by_quarters_sub_zone.pdf)_
+  
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
